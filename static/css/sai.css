@@ -1,0 +1,12 @@
+table{background-color:blue;
+    color: rgb(185, 15, 15);
+    width: 90%;     
+    text-align: center;
+    border: 2px double red;
+    box-shadow: black;}
+tr{ background-color: aqua;
+     color:green;}      
+th{background-color: yellow;
+color: black;}  
+td{background-color: rgb(51, 46, 48);
+color: yellow;}         

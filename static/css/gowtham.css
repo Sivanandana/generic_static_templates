@@ -1,0 +1,56 @@
+body{
+    position: relative;
+    top: 200px;
+    left: 250px;
+    padding: 20px;
+    background-color: rgb(176, 211, 241);
+   }
+   
+    
+
+.anjili{
+   text-align: center;
+    border: 1px solid black;
+    font-size: 21px;
+    background-color: rgb(135, 244, 80);
+}
+#java{
+    border: 2px solid black;
+    width:fit-content;
+   position: relative;
+   left: 150px;
+    text-align: center;
+    background-color: rgb(222, 142, 39);
+}
+
+
+
+.java{
+    border: 1px solid black ;
+    position: relative;
+    left: 50px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(246, 154, 222);
+}
+fieldset{
+    position: relative;
+    top: -220px;
+    left: 10px;
+}
+img{ position: relative;
+     left: 100px;
+    top: 70px;}
+
+.company{
+    width:400px ;
+    height: 300px;
+   
+}
+th{color: rgb(248, 249, 248);
+   background:linear-gradient(200deg,blue,black,red,white);}
+#html{
+    background-color: rgb(245, 131, 209);
+}
+  
+    

@@ -1,0 +1,16 @@
+body{position: absolute;
+    color: brown;
+    font-size: 20px;
+      top:50px;
+    left: 250px;}           
+input{color:blue;}
+fieldset{width: fit-content;
+         text-align: center;
+         }
+ legend{border: 2px solid rgb(248, 15, 190);
+        background-color: rgb(15, 248, 15);
+        font-size: 40px;
+        border-top-left-radius:30px;
+        border-bottom-right-radius: 30px;
+    padding:0 40px 0 40px;}
+    
